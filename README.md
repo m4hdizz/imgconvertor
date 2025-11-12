@@ -28,7 +28,6 @@ python imgconvert.py
 
 You’ll see:
 === 🧠 Universal Image Converter & Resizer ===
-by mm.zeinalzadeh@gmail.com
 
 4️⃣ FOLLOW THE ON-SCREEN PROMPTS
 
